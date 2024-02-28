@@ -19,6 +19,7 @@ namespace DI_CMR_ARCANOID
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("soy un repositorio1");
         }
     }
 }
